@@ -1,5 +1,5 @@
 # my-sale-app
-a sale website to list all products I offer
+a front end for py-sale-app to list all products I offer
 
 
 # Frame
